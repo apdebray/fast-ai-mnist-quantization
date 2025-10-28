@@ -13,7 +13,7 @@ This is part of my learning journey toward the USAF/MIT Phantom Program's **Fast
 - Dropout for regularization
 
 ## 📁 File
-- `Pytorch_Demo1.ipynb` – Full training notebook with results
+- `CNN for MINST data.ipynb` – Full training notebook with results
 
 ## 🚀 Next Steps
 - Quantize and export the model (ONNX)
