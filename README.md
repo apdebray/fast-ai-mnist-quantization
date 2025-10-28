@@ -22,6 +22,5 @@ This is part of my learning journey toward the USAF/MIT Phantom Program's **Fast
 
 ---
 
-🛠️ *Built and maintained by [Your Name]*  
-🎯 *Fast AI Phantom Program Applicant*
+🛠️ *Built and maintained by Armand Debray*  
 
